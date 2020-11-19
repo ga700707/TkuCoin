@@ -35,11 +35,11 @@
                 <key>title</key>
                 <string>淡江幣</string>
                 <key>bundle-version</key>
-                <string>6.2.3</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>com.yunzainfo.hbfu.mcampus</string>
+                <string>tkucoin</string>
             </dict>
         </dict>
     </array>
