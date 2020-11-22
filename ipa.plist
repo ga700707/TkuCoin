@@ -33,13 +33,13 @@
             <key>metadata</key>
             <dict>
                 <key>title</key>
-                <string>淡江幣</string>
+                <string>first</string>
                 <key>bundle-version</key>
-                <string>1.0.1</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>tkucoin</string>
+                <string>com.example.first</string>
             </dict>
         </dict>
     </array>
