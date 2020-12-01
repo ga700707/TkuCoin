@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/ga700707/TkuCoin/blob/main/v01/money.png</string>
+					<string>https://raw.githubusercontent.com/ga700707/TkuCoin/main/v01/money.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/ga700707/TkuCoin/blob/main/v01/money.png</string>
+					<string>https://raw.githubusercontent.com/ga700707/TkuCoin/main/v01/money.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ga700707/TkuCoin-A2862DC6-C3CE-49B1-A7AD-C0D4252C0E8A</string>
+					<string>https://github.com/ga700707/TkuCoin/blob/main/v01/Apps/ctestapp-A2862DC6-C3CE-49B1-A7AD-C0D4252C0E8A.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -75,7 +75,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ga700707/TkuCoin-C0DEC08F-0B8C-4E84-B882-CFE2C1248417</string>
+					<string>https://github.com/ga700707/TkuCoin/blob/main/v01/Apps/ctestapp-C0DEC08F-0B8C-4E84-B882-CFE2C1248417.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -145,7 +145,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ga700707/TkuCoin-3D99C2F3-038A-4646-AFC8-B6F031730810</string>
+					<string>https://github.com/ga700707/TkuCoin/blob/main/v01/Apps/ctestapp-3D99C2F3-038A-4646-AFC8-B6F031730810.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -432,7 +432,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ga700707/TkuCoin-8B586C1E-AC7B-437C-B22E-0CCD6AB59558</string>
+					<string>https://github.com/ga700707/TkuCoin/blob/main/v01/Apps/ctestapp-8B586C1E-AC7B-437C-B22E-0CCD6AB59558.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
